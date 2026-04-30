@@ -1,0 +1,51 @@
+{
+  "items": [
+    null,
+    null,
+    null,
+    {
+      "name": "Orbiting Orb",
+      "slot": "weapon",
+      "rarity": "rare",
+      "pattern": "orbital",
+      "stats": {
+        "damage": 3
+      },
+      "orbital_radius": 40.0,
+      "orbital_speed": 4.0,
+      "orbital_max": 5,
+      "orbital_lifetime": 3.0
+    },
+    null,
+    null,
+    {
+      "name": "Wood Ring",
+      "slot": "accessory",
+      "rarity": "common",
+      "icon_sprite": "icon_ring",
+      "stats": {
+        "move_speed": 10
+      }
+    },
+    {
+      "name": "Leather Vest",
+      "slot": "armor",
+      "rarity": "common",
+      "stats": {
+        "max_hp": 15
+      }
+    },
+    null,
+    null,
+    {
+      "name": "Wood Ring",
+      "slot": "accessory",
+      "rarity": "common",
+      "icon_sprite": "icon_ring",
+      "stats": {
+        "move_speed": 10
+      }
+    },
+    null
+  ]
+}

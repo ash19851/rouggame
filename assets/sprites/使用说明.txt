@@ -1,0 +1,11 @@
+将自制PNG像素画放在此目录下即可。
+文件名（不含扩展名）将成为精灵名称，自动出现在配置编辑器的精灵下拉列表中。
+
+例如：
+  my_custom_enemy.png  → 精灵名 "my_custom_enemy"
+  fire_sword_icon.png  → 精灵名 "fire_sword_icon"
+
+建议尺寸：
+  敌人/玩家精灵：16-32px 宽，16-32px 高
+  装备图标：8-12px 方形
+  模式图标：10-14px 方形
